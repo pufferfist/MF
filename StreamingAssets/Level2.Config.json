@@ -2,6 +2,8 @@
   "Level": 2,
   "BagSlot": 1,
   "RecipeSlot": 3,
+  "LevelTime": 90,
+  "SuccessScore": 80,
   "Recipes": [
     {
       "ID": 1,
@@ -52,25 +54,8 @@
     {
       "Name":"Beef",
       "Weight":10
-    },
-    {
-      "Name":"Heart",
-      "Weight":10
-    },
-    {
-      "Name":"ConeStop",
-      "Weight":10
     }
   ],
-  "ItemsWeights":[
-    {
-      "Name":"Obstacle",
-      "Weight":0
-    },
-    {
-      "Name":"Life",
-      "Weight":0
-    }
-  ]
+  "ItemsWeights":[]
 
 }
